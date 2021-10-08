@@ -1,3 +1,4 @@
+<!--  
 ### Olá!! Sou o Lucas Freitas  👋
 
 - Atualmente estou cursando Bacharel em Ciência da Computação na Universidade do Estado de Santa Catarina (UDESC)
@@ -16,6 +17,8 @@
 
 ##
 
+-->
+
 <div>
   <img align="center" alt="IMG_carro" src="https://64.media.tumblr.com/21996c686e3958128a17819c70ea65cf/ddec1fd4ec904990-05/s2048x3072/63dd526de11317be2f269c76a8e8577569fe57e2.jpg">
 
@@ -23,6 +26,8 @@
   </div>
 
 ##
+
+
 
 ### Encontre-me em: 
 
