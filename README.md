@@ -1,23 +1,21 @@
-<!--  
+
 ### Olá!! Sou o Lucas Freitas  👋
 
 - Atualmente estou cursando Bacharel em Ciência da Computação na Universidade do Estado de Santa Catarina (UDESC)
-- Em paralelo, estou realizando alguns cursos com foco de futuramente me tornar um Desenvolvedor Full Stack
-- Amante de jogos online e apaixonado por carros
 
-#### 🐱‍🚀 Linguagens na qual estou estudando no momento:
-- JavaScript
-- NodeJS
-- ReactJS 
+- Desenvolvendo meu TCC na área de segurança em aplicação web, entitulado:
+ 
+    -  Análise de segurança em aplicações Web através da avaliação de vulnerabilidades com ferramentas de código aberto.
 
-#### 😎 Linguagens na qual possuo conhecimento:
-- C / C++
-- Python
-- CSS
+- Em paralelo, estou realizando alguns cursos online com foco de futuramente me tornar um Desenvolvedor Full Stack.
+
+- Amante de jogos online e apaixonado por carros.
+
+
 
 ##
 
--->
+
 
 <div>
   <img align="center" alt="IMG_carro" src="https://64.media.tumblr.com/21996c686e3958128a17819c70ea65cf/ddec1fd4ec904990-05/s2048x3072/63dd526de11317be2f269c76a8e8577569fe57e2.jpg">
