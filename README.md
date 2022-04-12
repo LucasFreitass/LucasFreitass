@@ -5,11 +5,7 @@
 
 - Desenvolvendo meu TCC na área de segurança em aplicação web, entitulado:
  
-    -  
-
-- Em paralelo, estou realizando alguns cursos online com foco de futuramente me tornar um Desenvolvedor Full Stack.
-
-
+    - Análise de segurança em aplicações Web através da avaliação de vulnerabilidades com ferramentas de código aberto
 
 
 ##
